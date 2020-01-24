@@ -1,0 +1,10 @@
+2020-01-03 10:10:45,392  INFO [main] LogDemo:15 - Application starts successfully
+2020-01-03 10:10:45,405  WARN [main] LogDemo:18 - Check title
+2020-01-03 10:12:22,936  INFO [main] LogDemo:15 - Application starts successfully
+2020-01-03 10:12:22,954  WARN [main] LogDemo:19 - Check title
+2020-01-03 10:15:22,907  INFO [main] LogDemo:16 - Application starts successfully
+2020-01-03 10:15:22,919  WARN [main] LogDemo:20 - Check title
+2020-01-03 10:15:22,920 ERROR [main] LogDemo:29 - incorrect page
+2020-01-03 10:15:57,375  INFO [main] LogDemo:15 - Application starts successfully
+2020-01-03 10:15:57,389  WARN [main] LogDemo:19 - Check title
+2020-01-03 10:15:57,389 ERROR [main] LogDemo:28 - incorrect page
